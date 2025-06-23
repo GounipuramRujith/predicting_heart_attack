@@ -106,9 +106,3 @@ Packages include:
 * `tensorflow`
 * `Pillow`
 
-```
-
----
-
-Let me know if you'd like the same `README.md` saved and zipped along with your code. I can also create an updated version that includes instructions for Streamlit if needed.
-```
